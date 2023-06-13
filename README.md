@@ -18,27 +18,27 @@ And that should be it. You can refer to the functions contained in this library 
 
 The functions contained in this project are the following:
 
-- **ft_atoi.c**: Converts a string to an integer.
-- **ft_bzero.c**: Sets a block of memory to zero.
-- **ft_calloc.c**: Allocates and initializes a block of memory.
-- **ft_isalnum.c**: Checks if a character is alphanumeric.
-- **ft_isalpha.c**: Checks if a character is alphabetic.
-- **ft_isascii.c**: Checks if a character is ASCII.
-- **ft_isdigit.c**: Checks if a character is a digit.
-- **ft_isprint.c**: Checks if a character is printable.
-- **ft_itoa.c**: Converts an integer to a string.
-- **ft_memchr.c**: Locates a byte in a block of memory.
-- **ft_memcmp.c**: Compares two blocks of memory.
-- **ft_memcpy.c**: Copies a block of memory.
-- **ft_memmove.c**: Copies a block of memory, handling overlaps.
-- **ft_memset.c**: Sets a block of memory to a specific value.
-- **ft_putchar_fd.c**: Writes a character to a file descriptor.
-- **ft_putendl_fd.c**: Writes a string followed by a newline to a file descriptor.
-- **ft_putnbr_fd.c**: Writes an integer to a file descriptor.
-- **ft_putstr_fd.c**: Writes a string to a file descriptor.
-- **ft_split.c**: Splits a string into an array of substrings.
-- **ft_strchr.c**: Locates the first occurrence of a character in a string.
-- **ft_strdup.c**: Duplicates a string.
+    - **ft_atoi.c**: Converts a string to an integer.
+    - **ft_bzero.c**: Sets a block of memory to zero.
+    - **ft_calloc.c**: Allocates and initializes a block of memory.
+    - **ft_isalnum.c**: Checks if a character is alphanumeric.
+    - **ft_isalpha.c**: Checks if a character is alphabetic.
+    - **ft_isascii.c**: Checks if a character is ASCII.
+    - **ft_isdigit.c**: Checks if a character is a digit.
+    - **ft_isprint.c**: Checks if a character is printable.
+    - **ft_itoa.c**: Converts an integer to a string.
+    - **ft_memchr.c**: Locates a byte in a block of memory.
+    - **ft_memcmp.c**: Compares two blocks of memory.
+    - **ft_memcpy.c**: Copies a block of memory.
+    - **ft_memmove.c**: Copies a block of memory, handling overlaps.
+    - **ft_memset.c**: Sets a block of memory to a specific value.
+    - **ft_putchar_fd.c**: Writes a character to a file descriptor.
+    - **ft_putendl_fd.c**: Writes a string followed by a newline to a file descriptor.
+    - **ft_putnbr_fd.c**: Writes an integer to a file descriptor.
+    - **ft_putstr_fd.c**: Writes a string to a file descriptor.
+    - **ft_split.c**: Splits a string into an array of substrings.
+    - **ft_strchr.c**: Locates the first occurrence of a character in a string.
+    - **ft_strdup.c**: Duplicates a string.
 - **ft_striteri.c**: Applies a function to each character of a string.
 - **ft_strjoin.c**: Concatenates two strings.
 - **ft_strlcat.c**: Concatenates strings with size limiting.
